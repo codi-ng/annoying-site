@@ -1,0 +1,12 @@
+html{
+    background-image: url(https://i.imgflip.com/61eewt.png);
+}
+
+.escape.false-heading{
+    text-align: center;
+}
+
+button{
+    height: 100px;
+    width: 50px;
+}
