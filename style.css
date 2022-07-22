@@ -1,0 +1,308 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+html{
+    background-color: red;
+}
+
+.intro-heading{
+    text-align: center !important;
+    position: relative;
+    top: 50px;
+    border: 4rem yellow;
+    border-style: dotted dashed double groove;
+    padding: 2px;
+    padding-bottom: 100px;
+}
+
+#introduction{
+    text-align: center;
+    background-color: cyan;
+    padding-bottom: 200px;
+}
+
+.w{
+    font-family: 'Cairo', sans-serif !important;
+}
+
+.e{
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.l{
+    font-family: 'Dosis', sans-serif;
+}
+
+.c{
+    font-family: 'Dancing Script', cursive;
+}
+
+.o{
+    font-family: 'Lobster', cursive;
+}
+
+.m{
+    font-family: 'Mochiy Pop One', sans-serif;
+}
+
+.e-2{
+    font-family: 'Oswald', sans-serif;
+}
+
+.t{
+    font-family: 'Pacifico', cursive;
+}
+
+.o-2{
+    font-family: 'PT Serif', serif;
+}
+
+.t-2{
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.h{
+    font-family: 'Amatic SC', cursive;
+}
+
+
+
+.e-3{
+    font-family: 'Cinzel', serif;
+}
+
+.not-heading{
+    font-family: 'Caveat', cursive;
+}
+
+.a{
+    font-family: 'Cormorant SC', serif;
+}
+
+.n{
+    font-family: 'Libre Baskerville', serif;
+}
+
+.n-2{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.o-3{
+    font-family: 'Inconsolata', monospace;
+}
+
+
+.y{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.i{
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+
+.n-3{
+    font-family: 'Edu SA Beginner', cursive;
+}
+
+.g{
+    font-family: 'Bebas Neue', cursive;
+}
+
+.w-2{
+    font-family: 'Source Code Pro', monospace;
+}
+
+.e-4{
+    font-family: 'Source Code Pro', monospace;
+}
+
+.b{
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.s{
+    font-family: 'Roboto', sans-serif;
+}
+
+.i-2{
+    font-family: 'Rubik Moonrocks', cursive;
+}
+
+.t-3{
+    font-family: 'Ibarra Real Nova', serif;
+}
+
+.e-5{
+    font-family: 'Caveat', cursive;
+}
+
+
+.main{
+    text-align: center;
+}
+
+.make-pretty-main{
+    position: relative;
+    top: 50px;
+}
+
+.make-pretty:hover{
+    position: relative !important;
+    top: 200px !important;
+}
+
+.make-pretty:active{
+    position: relative !important;
+    top: 200px !important;
+}
+
+.make-pretty2:hover{
+    cursor: not-allowed;
+}
+
+
+.make-pretty3{
+    cursor: wait;
+}
+
+
+
+
+
+
+.survey{
+    position: relative;
+    top: 500px;
+}
+
+.survey-heading{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+
+#answer1{
+    font-size: 20px;
+}
+
+.answer-labl{
+    font-size: 50px;
+}
+
+
+
+input[type=radio]{
+    height: 2em;
+    border: 0px;
+}
+
+#answer-3:hover{
+    opacity: 1;
+}
+
+.answer-labl-neg:hover{
+    opacity: 1;
+}
+
+#answer-3{
+    height: 2em;
+    border: 0px;
+}
+
+.answer-labl-neg{
+    font-size: 50px;
+    position: relative;
+    left: 20px;
+    bottom: 25px;
+}
+
+.neg-img{
+    position: relative;
+    top: 15px;
+}
+
+input[type=radio]{
+    cursor: pointer;
+}
+
+.answer-labl{
+    cursor: pointer;
+    font-weight: bold;
+}
+
+#rating-1:hover{
+    cursor: not-allowed;
+}
+#rating-2:hover{
+    cursor: not-allowed;
+}
+#rating-3:hover{
+    cursor: not-allowed;
+}
+#rating-4:hover{
+    cursor: not-allowed;
+}
+#rating-5:hover{
+    cursor: not-allowed;
+}
+#rating-6:hover{
+    cursor: not-allowed;
+}
+#rating-7:hover{
+    cursor: not-allowed;
+}
+#rating-8:hover{
+    cursor: not-allowed;
+}
+#rating-9:hover{
+    cursor: not-allowed;
+}
+
+#rating-1:active{
+    cursor: not-allowed;
+    pointer-events: none;
+}
+#rating-2:active{
+    cursor: not-allowed;
+    pointer-events: none;
+}
+#rating-3:active{
+    cursor: not-allowed;
+    pointer-events: none;
+}
+#rating-4:active{
+    cursor: not-allowed;
+    pointer-events: none;
+}
+#rating-5:active{
+    cursor: not-allowed;
+    pointer-events: none;
+}
+#rating-6:active{
+    cursor: not-allowed;
+    pointer-events: none;
+}
+#rating-7:active{
+    cursor: not-allowed;
+    pointer-events: none;
+
+}
+#rating-8:active{
+    cursor: not-allowed;
+    pointer-events: none;
+    
+
+
+}
+#rating-9:active{
+    cursor: not-allowed;
+    pointer-events: none;
+    
+
+}
+
+.text-area{
+    pointer-events: none;
+}
